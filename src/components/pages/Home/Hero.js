@@ -11,8 +11,8 @@ const Hero = () => {
           <h1>Little Lemon</h1>
           <h2>Lahore</h2>
           <p>
-            We are a family owned Mediterranean restaurant, 
-            focused on traditional recipes served with a modern twist.
+            We are a family owned restaurant, 
+            focused on traditional desi and modern continetal food.
           </p>
           <Link className="button-primary" to={pages.get('bookings').path}>
             Reserve a table

@@ -16,8 +16,8 @@ import logoWhiteImage from './assets/logo-white.png';
 import pages from '../../utils/pages';
 
 const contacts = [
-  { icon: faLocationDot, info: '678 Pisa Ave, Chicago, IL 60611', },
-  { icon: faPhone, info: '(312) 593-2744', },
+  { icon: faLocationDot, info: '342 B, MM Alam Road, Lahore', },
+  { icon: faPhone, info: '(042) 593-2744', },
   { icon: faEnvelope, info: 'customer@littlelemon.com', },
 ];
 
